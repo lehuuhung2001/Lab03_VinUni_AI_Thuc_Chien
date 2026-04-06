@@ -78,5 +78,3 @@ The output is plain text (no JSON/markdown) so the LLM can directly read and quo
 
 ---
 
-> [!NOTE]
-> Submit this report by renaming it to `REPORT_[YOUR_NAME].md` and placing it in this folder.
